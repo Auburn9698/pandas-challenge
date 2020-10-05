@@ -28,4 +28,4 @@ Push the above changes to GitHub or GitLab.
 
 Option 1: Heroes of Pymoli
 
-![Pandas Picture][https://github.com/Auburn9698/pandas-challenge/blob/master/Fantasy.png]
+![Pandas Picture](https://github.com/Auburn9698/pandas-challenge/blob/master/Fantasy.png)
