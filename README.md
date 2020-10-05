@@ -1,5 +1,4 @@
 # pandas-challenge
-Homework for Pandas, Pandas, Pandas
 
 Pandas Homework - Pandas, Pandas, Pandas
 
