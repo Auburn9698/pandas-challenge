@@ -28,4 +28,4 @@ Push the above changes to GitHub or GitLab.
 
 Option 1: Heroes of Pymoli
 
-![Pandas Picture] https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GT-ATL-DATA-PT-09-2020-U-C-2/raw/master/04-Pandas/Homework/Instructions/Images/Fantasy.png
+![Pandas Picture](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GT-ATL-DATA-PT-09-2020-U-C-2/raw/master/04-Pandas/Homework/Instructions/Images/Fantasy.png)
